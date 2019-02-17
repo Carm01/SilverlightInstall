@@ -6,8 +6,10 @@
 #AutoIt3Wrapper_Compression=4
 #AutoIt3Wrapper_UseUpx=y
 #AutoIt3Wrapper_UseX64=y
+#AutoIt3Wrapper_Res_Comment=Automatically gets latest version of Silverlight and installs
 #AutoIt3Wrapper_Res_Description=SilverLight Updater
 #AutoIt3Wrapper_Res_Fileversion=1.3.0.0
+#AutoIt3Wrapper_Res_ProductName=Silverlight AutoInstaller w/uninstall old version
 #AutoIt3Wrapper_Res_ProductVersion=1.3.0.0
 #AutoIt3Wrapper_Res_LegalCopyright=carm0@sourceforge
 #AutoIt3Wrapper_Res_Language=1033
